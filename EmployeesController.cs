@@ -1,3 +1,6 @@
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using EmployeeManagementAPI.Data;
@@ -54,7 +57,7 @@ namespace EmployeeManagementAPI.Controllers
                 return NotFound();
             }
 
-            // Update the existing employee with the new values
+
             employee.FirstName = updatedEmployee.FirstName;
             employee.LastName = updatedEmployee.LastName;
             employee.Email = updatedEmployee.Email;
