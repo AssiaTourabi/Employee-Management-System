@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\hahnPrjct\\EmployeeManagmentSystem\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj": {}
+    "C:\\Users\\PC\\Employee-Management-System-project\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj": {}
   },
   "projects": {
-    "D:\\hahnPrjct\\EmployeeManagmentSystem\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj": {
+    "C:\\Users\\PC\\Employee-Management-System-project\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\hahnPrjct\\EmployeeManagmentSystem\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Employee-Management-System-project\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
         "projectName": "EmployeeManagementAPI",
-        "projectPath": "D:\\hahnPrjct\\EmployeeManagmentSystem\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
+        "projectPath": "C:\\Users\\PC\\Employee-Management-System-project\\EmployeeManagementAPI\\EmployeeManagementAPI\\EmployeeManagementAPI.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "D:\\hahnPrjct\\EmployeeManagmentSystem\\EmployeeManagementAPI\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Employee-Management-System-project\\EmployeeManagementAPI\\EmployeeManagementAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -57,7 +57,7 @@ namespace EmployeeManagementAPI.Controllers
                 return NotFound();
             }
 
-
+            // Update the existing employee with the new values
             employee.FirstName = updatedEmployee.FirstName;
             employee.LastName = updatedEmployee.LastName;
             employee.Email = updatedEmployee.Email;
